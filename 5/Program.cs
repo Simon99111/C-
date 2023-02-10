@@ -1,8 +1,10 @@
 ﻿Console.WriteLine("Введите имя");
 string name = Console.ReadLine();
-if (name == "Маша") {
+if (name == "Маша") 
+{
     Console.WriteLine("Здарова!");
 }
-else {
+else 
+{
     Console.WriteLine("Пока!");
 }
